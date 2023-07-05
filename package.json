@@ -1,0 +1,30 @@
+{
+  "name": "api-rest-mysql",
+  "version": "1.0.0",
+  "description": "api rest mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "api-mysql"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "backend",
+    "restfull",
+    "mysql"
+  ],
+  "author": "Razafaindrafaiga Handroso Jacob",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql2": "^3.4.4",
+    "nodemon": "^1.14.9",
+    "sequelize": "^6.32.1"
+  }
+}
